@@ -11,6 +11,6 @@ This relates to the point above and is the very reason I keep switching datasets
 
 #### Visualization!
 The last step to any data project --> How to visualize effectively!
----
 
+---
 In a way all of this is exactly what I came to grad school for and I'm getting there with my skills --> This readme wasn't intended to be emo, sorry!
